@@ -9,7 +9,7 @@ Kisan Mitra is a speech-based solution designed to bridge the knowledge gap in S
 This repository contains all the code, datasets, and documentation for building and deploying the Kisan Mitra pipeline.
 
 ---
-
+## Youtube Video Link --- https://youtu.be/DbSUO9gmcRQ
 ## Features
 
 - **Automatic Speech Recognition (ASR)**: Transcribes colloquial Kannada audio into text with high accuracy, even in noisy environments.
